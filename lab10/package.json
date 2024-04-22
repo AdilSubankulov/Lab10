@@ -1,6 +1,6 @@
 {
-  "homepage": "https://github.com/AbdisamatovIskhak/newLab9.git",
-  "name": "react-project",
+  "homepage": "https://github.com/AdilSubankulov/react-project.git",
+  "name": "lab10",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,7 +9,6 @@
     "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "tsc && vite build",
-    "start": "vite",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
